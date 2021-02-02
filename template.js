@@ -1,3 +1,5 @@
+//the power of template
+
 let fName = 'sadia';
 let lName = 'kanchi';
 let mName = 'Islam'
